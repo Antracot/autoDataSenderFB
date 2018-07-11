@@ -1,0 +1,24 @@
+{
+	"name": "fb_data_sender",
+	"version": "1.0.3",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"preptor": "node_modules/.bin/webdriver-manager update",
+		"ptor": "node_modules/.bin/protractor protractor.conf.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "some_git_repa"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chance": "^1.0.13",
+		"jasmine-spec-reporter": "^4.2.1",
+		"protractor": "^5.1.2",
+		"jasmine-data-provider": "^2.2.0"
+	}
+}
