@@ -1,3 +1,3 @@
 # autoDataSenderFB
-auto script for sending data some like message in FB
+auto script for sending some data like message in FB
 
